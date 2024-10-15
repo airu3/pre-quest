@@ -46,7 +46,7 @@ git config --global user.email "your-email@example.com"
 出力:
 
 ```bash
-リポジトリ 'https://github.com/your-username/git-lecture.git' をクローンしています...
+リポジトリ 'https://github.com/airu3/git-lecture.git' をクローンしています...
 完了しました。
 ```
 
