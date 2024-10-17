@@ -8,7 +8,10 @@
 
 ## 参考文献
 突貫工事で作ったので、わからないところは以下のサイトを横断しながら調べてほしいです。
-https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9#%E4%BD%BF%E3%81%84%E6%96%B9
+
+(vscode初回起動の時のgit使い方)[https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9#%E4%BD%BF%E3%81%84%E6%96%B9]
+
+(ちょっとムズイ　プル→コミット→プッシュの基本的な流れ)[https://zenn.dev/ojk/books/github-vscode/viewer/pull-push]
 
 ## 冒険のマップ
 
