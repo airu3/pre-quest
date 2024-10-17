@@ -40,8 +40,14 @@ git config --global user.email "your-email@example.com"
 - VSCodeを開く
 - サイドバーにあるソース管理アイコンをクリック
 - 「リポジトリをクローン」ボタンを押して、君のGitHubリポジトリのURLを入力しよう  
-  URL: `https://github.com/your-username/git-lecture.git`
+  URL: `https://github.com/airu3/git-lecture.git`
 - クローン先のフォルダを選択して、冒険をスタート！
+
+### 呪文（コマンド）：
+
+```bash
+https://github.com/airu3/git-lecture.git
+```
 
 出力:
 
