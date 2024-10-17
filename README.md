@@ -1,4 +1,4 @@
-# GitHub Quest - 冒険者のためのGit & GitHub入門
+![image](https://github.com/user-attachments/assets/aac0841a-67f8-4a70-a514-9ea0cc133c58)![image](https://github.com/user-attachments/assets/355b785f-3f07-46d6-ade1-1535eedf501c)# GitHub Quest - 冒険者のためのGit & GitHub入門
 
 ## ようこそ！GitとGitHubの冒険の世界へ！
 
@@ -20,29 +20,26 @@
 ## 1. 冒険の準備：Gitの初期設定
 
 冒険に出る前に、君の名前と魔法（メールアドレス）を設定しよう。これは君の行動が記録されるために必要な儀式だ。
-VSCode のターミナルの設定
-VSCode（Git）へのメールアドレスとユーザー名の設定は、ターミナルというアプリ（場所）から行います。チャプター 1 で Git をインストールしたときに使った Git Bash はターミナルアプリのひとつですが、ここでは VSCode のターミナルを使います。
+
+### VSCode のターミナルの設定
+
+---
+
+VSCode（Git）へのメールアドレスとユーザー名の設定は、ターミナルというアプリ（場所）から行います。
+ここでは VSCode のターミナルを使います。
 
 VSCode のメニューの「View（表示）」から「Terminal」を選びます。
-
-
+![image](https://github.com/user-attachments/assets/c6ede61e-9b1e-43e2-bc5f-9ae1c87697dc)
 
 Windows の場合、ターミナルの中身が「powershell」になっています。これを Git Bash（bash）に変更します。※Mac の場合、この設定は不要なので次の節に飛んでください。
+![image](https://github.com/user-attachments/assets/b7680386-eb25-4497-936d-106721cf4c19)
 
-
-
-「powershell」と書かれたところの右側の ＋ のさらに右側にある ▼ をクリックすると、ターミナルの
-
-
-
-!
-“ターミナル”とは、Windows の場合、ここにリストアップされたソフトウェアの総称、あるいは皮（がわ）のことです。Mac の場合は、ターミナルの中身のソフトウェアのことを「シェル」といい、デフォルトでは「zsh」になっています。
-
-すると、下図のように、右側のペインで「bash」というのが選ばれた状態になります。
+「powershell」と書かれたところの右側の ＋ のさらに右側にある ▼ をクリックすると、
+![image](https://github.com/user-attachments/assets/2e847e64-9824-4f76-a741-7b7855e8dece)
 
 
 ### 呪文（コマンド）：
-
+では、VSCode（Git）にメールアドレスとユーザー名を設定していきましょう。ターミナルから次の 2 つのコマンド（文字列）を打ち込みます。
 ```bash
 # 勇者の名前とメールアドレスを設定
 git config --global user.name "your-name"
@@ -56,8 +53,14 @@ git config --global user.email "your-email@example.com"
 さあ、いよいよ冒険の地図（リポジトリ）を手に入れる時が来た！VSCodeを使って、みんなで冒険するための場所を準備しよう。
 
 手順：
+### 【初回起動の場合】VSCode管理画面上でのクローンの場所
+VSCodeの画面で、ソース管理を選択します。左のリポジトリのクローンをクリックします。
+![image](https://github.com/user-attachments/assets/6c7d2baa-3d3c-4f7f-b786-a4e0b5b2fd1d)
+画面上部にURLを貼り付ける枠が出てくるので、先ほどコピーしたものを貼り付けて、EnterもしくはリポジトリのURL git@github.com:ユーザー名/RepositoryForVSCode.gitをクリックします。
+![image](https://github.com/user-attachments/assets/3b730c19-7fd0-41ed-bdbc-6416361125e7)
 
-### VSCode管理画面上でのクローンの場所
+
+### 【起動2回目以降】VSCode管理画面上でのクローンの場所　
 クローンしたいリモートリポジトリのURLを入力する欄が表示されます。クローン先リモートリポジトリのURLをこの欄に張り付け、「Enter」を押して下さい。
 - VSCodeを開く
 - サイドバーにあるソース管理アイコンをクリック
@@ -67,7 +70,7 @@ git config --global user.email "your-email@example.com"
   ```
 ![image](https://github.com/user-attachments/assets/99c5f0d2-a218-4f3b-b928-00ed6197ba3e)
 
-### クローン先のフォルダを選択して、冒険をスタート！
+### 共通 クローン先のフォルダを選択して、冒険をスタート！
   そうすると、「リモートリポジトリの宛先」とするローカルのフォルダを選択するよう指示されます。
   任意のフォルダを選んで「リポジトリの宛先として選択」をクリックして下さい。
 ![image](https://github.com/user-attachments/assets/c7d66163-f1c1-4e07-920e-ead5e95a2e4a)
@@ -102,12 +105,20 @@ VSCodeでブランチを作成する場合、メインのブランチを開い�
 
 ## 4. 発見した宝物：コードを編集して保存しよう
 
+
 ここまで来た君は、何か新しい宝物（コード）を見つけるはずだ！勇気を出して、少しだけ手を加えてみよう。
+
 
 ### 手順：
 
 - VSCodeでファイルを開いて、コードを編集
+- エクスプローラーで新しいファイルを選択します。
+![image](https://github.com/user-attachments/assets/ec393d26-8373-45a9-9a59-f0e71fe29e19)
+
 - 編集が終わったら、保存（Ctrl+S）を忘れずに！
+![image](https://github.com/user-attachments/assets/d5e53539-95ab-4644-8406-046d56bf672a)
+
+
 
 ---
 
@@ -123,12 +134,19 @@ VSCodeでブランチを作成する場合、メインのブランチを開い�
   例: `"イントロダクションを追加しました"`
 - 「✓」ボタンを押してコミット完了！
 
-### 出力:
+- 編集が終わったら、ソース管理の項目に通知アイコンみたいなものが表示されています。これは変更があった場合のファイルの数を表しています。
+![image](https://github.com/user-attachments/assets/31502f2c-035c-48e4-8969-8f1d72bf6a9f)
 
-```bash
-変更がステージされました。
-コミットメッセージ: "イントロダクションを追加しました"
-```
+- 変更の下にあるファイルをクリックすると、前回との差分が表示されます。今回は新しく追加したので、赤い部分(前回の部分)には何も表示されていません。またファイルをマウスオーバーすると横に出てくるアイコンは、それぞれファイルを開く 変更を破棄 変更をステージとなっています。
+![image](https://github.com/user-attachments/assets/27b38ea6-a02a-4c46-a692-0724c5ce86ac)
+
+- ファイルをアップロードするためには、変更をステージをクリックします。そして、コメントを書き、コミットをクリックします。このコミットは、ローカルに保存しただけなので、最後にGitHubにアップロードする作業が必要です。
+ソース管理の右にある三点リーダーをクリックし、プッシュを選択することでアップロードが完了となります。
+![image](https://github.com/user-attachments/assets/cc8757ee-3224-49bd-90ce-8ef844288d3f)
+
+- GitHubの方でも確認してみると、アップロードされているのが確認できると思います。
+![image](https://github.com/user-attachments/assets/45586792-c177-4482-91c7-be9fd4f5a286)
+
 
 ## 6. 勇者の掲示板：プルリクエストを作成しよう
 
