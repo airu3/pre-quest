@@ -37,17 +37,22 @@ git config --global user.email "your-email@example.com"
 
 手順：
 
+VSCode管理画面上でのクローンの場所
+クローンしたいリモートリポジトリのURLを入力する欄が表示されます。クローン先リモートリポジトリのURLをこの欄に張り付け、「Enter」を押して下さい。
 - VSCodeを開く
 - サイドバーにあるソース管理アイコンをクリック
-- 「リポジトリをクローン」ボタンを押して、君のGitHubリポジトリのURLを入力しよう  
-  URL: `https://github.com/airu3/git-lecture.git`
+- VSCode管理画面左上の「…」→「クローン」の順でクリックして、GitHubリポジトリのURLを入力しよう
+  ```bash
+  https://github.com/airu3/git-lecture.git
+  ```
+![image](https://github.com/user-attachments/assets/99c5f0d2-a218-4f3b-b928-00ed6197ba3e)
+
 - クローン先のフォルダを選択して、冒険をスタート！
+  フォルダの場所はデモ用なのでわかりやすいところで！
+  この記事を作った人は`I:\code\web`ディレクトリに保存しています。
 
 ### 呪文（コマンド）：
 
-```bash
-https://github.com/airu3/git-lecture.git
-```
 
 出力:
 
