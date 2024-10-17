@@ -31,7 +31,8 @@
 ![image](https://github.com/user-attachments/assets/f15ab89b-d88e-4a3d-a030-0cc0334912a9)
 
 ### Gitという「旅の道具」
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/76c04e9d-ab19-4f84-a53e-e702a211bc4d)
+
 
 「Git」とは、冒険者たちが持つ最も強力なツールだ。Gitは、時間を巻き戻したり、異なる分岐点（ブランチ）を行き来する能力を持つ。この力を使えば、コードの歴史を自由に操作でき、過去の状態に戻ったり、複数の冒険ルートを試すことができる。Gitを手に入れることは、冒険者として自分の軌跡を守る第一歩だ。
 
