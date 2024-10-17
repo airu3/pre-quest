@@ -1,10 +1,14 @@
-![image](https://github.com/user-attachments/assets/aac0841a-67f8-4a70-a514-9ea0cc133c58)![image](https://github.com/user-attachments/assets/355b785f-3f07-46d6-ade1-1535eedf501c)# GitHub Quest - 冒険者のためのGit & GitHub入門
+# GitHub Quest - 冒険者のためのGit & GitHub入門
 
 ## ようこそ！GitとGitHubの冒険の世界へ！
 
 勇者よ、今日から君はGitHubの世界で冒険を始めるんだ！  
 目的は「プルリクエスト」という最終ボスを倒して、みんなで仲良くプロジェクトを進めること！  
 さあ、君の冒険が今始まる！
+
+## 参考文献
+突貫工事で作ったので、わからないところは以下のサイトを横断しながら調べてほしいです。
+https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9#%E4%BD%BF%E3%81%84%E6%96%B9
 
 ## 冒険のマップ
 
