@@ -29,3 +29,5 @@ VSCodeでブランチを作成する場合、メインのブランチを開い�
 - VSCodeで、画面左下の「ブランチ」名をクリック
 - 「新しいブランチを作成」ボタンを押して、新しいブランチを作成しよう  
   例: `feature/add-introduction`
+
+![image](https://storage.googleapis.com/zenn-user-upload/21f8ac9accda-20231206.gif)
