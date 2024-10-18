@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbeaf920-b8c4-4d83-a3c2-ed04cb589520)# GitHub Quest - 冒険者のための Git & GitHub 入門
+# GitHub Quest - 冒険者のための Git & GitHub 入門
 
 ## ようこそ！Git と GitHub の冒険の世界へ！
 > 勇者よ、今日から君は GitHub の世界で冒険を始めるんだ！
