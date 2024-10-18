@@ -24,6 +24,6 @@ git push origin ブランチ名
 
 [開発ブランチで修正](https://backlog.com/ja/git-tutorial/pull-request/05/)
 
-[プルリクエストの作成]()
+[プルリクエストの作成](https://backlog.com/ja/git-tutorial/pull-request/06/)
 
-[レビューとマージ]()
+[レビューとマージ](https://backlog.com/ja/git-tutorial/pull-request/07/)
