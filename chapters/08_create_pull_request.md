@@ -27,3 +27,5 @@ git push origin ブランチ名
 [プルリクエストの作成](https://backlog.com/ja/git-tutorial/pull-request/06/)
 
 [レビューとマージ](https://backlog.com/ja/git-tutorial/pull-request/07/)
+
+大澤先生ジャン
