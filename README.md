@@ -1,4 +1,4 @@
-# GitHub Quest - 冒険者のための Git & GitHub 入門
+![image](https://github.com/user-attachments/assets/dbeaf920-b8c4-4d83-a3c2-ed04cb589520)# GitHub Quest - 冒険者のための Git & GitHub 入門
 
 ## ようこそ！Git と GitHub の冒険の世界へ！
 > 勇者よ、今日から君は GitHub の世界で冒険を始めるんだ！
@@ -80,6 +80,9 @@
    テンプレートから作成されたリポジトリは、元のリポジトリに影響を与えずに編集が可能です。
 
    テンプレートとして使用するには、「Use this template」ボタンをクリックして、プロジェクトを作成してください。
+
+   ![image](https://github.com/user-attachments/assets/649c367f-ee83-4279-b78d-d3d99d4c4e3a)
+
 
 「GitHub Quest」の詳細な使用方法については、以下のリソースも参考にしてください。
    - [GitHub のテンプレートリポジトリ機能について](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
