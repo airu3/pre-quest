@@ -20,3 +20,13 @@ git status
 # 遊んでくれてありがとう！体験版はここまで！
 詳しい手順は以下の記事を参照してください。
 [VSCodeからGitHubにコードをPushする方法](https://qiita.com/hayaharu3220/items/b7eb57a3689fb8050856)
+
+✅プッシュ（git push）
+
+リモートブランチにpush
+
+変更の同期を押すと、リモートリポジトリにpushできるのだ。
+
+たとえば、以下👇のような状況で変更の同期を押すとするのだ。
+
+![image](https://github.com/user-attachments/assets/adb8aa73-5765-4662-8302-8b8a40d088ba)
