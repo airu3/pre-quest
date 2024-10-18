@@ -29,4 +29,4 @@ git status
 
 たとえば、以下👇のような状況で変更の同期を押すとするのだ。
 
-![image](https://github.com/user-attachments/assets/adb8aa73-5765-4662-8302-8b8a40d088ba)
+![image](https://storage.googleapis.com/zenn-user-upload/8f47963674c5-20231206.gif)
