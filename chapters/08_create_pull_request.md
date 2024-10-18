@@ -19,4 +19,11 @@ git push origin ブランチ名
 
 # 遊んでくれてありがとう！体験版はここまで！
 詳しい手順は以下の記事を参照してください。
-[サル先生のgit入門　プルリクエスト編](https://backlog.com/ja/git-tutorial/pull-request/01/)
+
+[プルリクエストとは？](https://backlog.com/ja/git-tutorial/pull-request/01/)
+
+[開発ブランチで修正](https://backlog.com/ja/git-tutorial/pull-request/05/)
+
+[プルリクエストの作成]()
+
+[レビューとマージ]()
