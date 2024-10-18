@@ -17,7 +17,7 @@
 ごめんなさい。
 
 - [VSCode で Git・GitHub を使う方法を解説する【初心者向き】](https://miyashimo-studio.jp/blog/detail/vscode-github/)
-- [vscode 初回起動の時の git 使い方](https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9#%E4%BD%BF%E3%81%84%E6%96%B9)
+- [VSCodeで始めるGit(Hub)管理　使い方など](https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9#%E4%BD%BF%E3%81%84%E6%96%B9)
 - [プル → コミット → プッシュの基本的な流れ](https://zenn.dev/ojk/books/github-vscode/viewer/pull-push)
 - [編集&コミット](https://zenn.dev/ojk/books/github-vscode/viewer/vscode-git#%E7%B7%A8%E9%9B%86%EF%BC%86%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88)
 - [プッシュ（とアプリ連携）](https://zenn.dev/ojk/books/github-vscode/viewer/vscode-git#%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%88%E3%81%A8%E3%82%A2%E3%83%97%E3%83%AA%E9%80%A3%E6%90%BA%EF%BC%89)
