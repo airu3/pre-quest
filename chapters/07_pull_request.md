@@ -28,3 +28,23 @@ git push origin ブランチ名
 - [プルリクエストの作成](https://backlog.com/ja/git-tutorial/pull-request/06/)
 
 - [レビューとマージ](https://backlog.com/ja/git-tutorial/pull-request/07/)
+
+---
+
+# 仲間と共に冒険を進めよう！
+
+この章でわからないことがあったり、改善点を見つけた場合は、ぜひ以下の方法で教えてください。
+
+## 質問はこちら
+
+- **イシューを作成**: 不明点や提案をイシューとして登録し、仲間たちと共に解決を目指しましょう！
+- [GitHub のイシューを作成する](https://github.com/airu3/git-lecture/issues)
+
+## 記事の修正はこちら
+
+- **プルリクエストを送信**: あなたの冒険の成果をプルリクエストとして提出し、この記事をもっとわかりやすくする手助けをしてください！ - - - [GitHub のプルリクエストを作成する](https://github.com/airu3/git-lecture/pulls)
+
+もし、使い方がわからない場合は、以下の記事を参考にしてみてください。
+
+- [GitHub でのイシュー作成とプルリクエストの方法](https://zenn.dev/posita33/articles/github_about_issue)
+- [【Git 入門】プルリクエストのやり方](https://zenn.dev/gachigachi/articles/dcd833c56bd0ed#2.1.pull-request%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
