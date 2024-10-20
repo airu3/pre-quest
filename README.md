@@ -34,50 +34,32 @@
 5. **冒険の記録** - [変更をリモートリポジトリにプッシュしよう](chapters/05_push.md)
 6. **仲間の知恵** - [リモートリポジトリから変更をプルしよう](chapters/06_pull.md)
 7. **勇者の掲示板** - [プルリクエストで仲間に報告しよう](chapters/07_pull_request.md)
+8. ~~**冒険の課題** - [イシューを管理しよう](chapters/08_manage_issues.md)~~
 
-### 開発リーダー向け
+# 開発リーダー向け
 
-8. **新たな冒険の始まり** - [リポジトリを作成しよう](chapters/08_init.md)
-9. **運命の交差点** - [ブランチをマージして、冒険を完結させよう](chapters/09_merge.md)
-10. ~~**時を遡る力** - [リベースで履歴を整理しよう](chapters/10_rebase.md)~~
-11. ~~**別の道を選ぶ** - [ブランチをチェックアウトしよう](chapters/11_checkout.md)~~
-12. ~~**運命の修正** - [コンフリクトを解消しよう](chapters/12_conflicts.md)~~
-13. ~~**過去の探求** - [ログを確認して履歴を辿ろう](chapters/13_log.md)~~
-14. ~~**守護の力** - [タグを使って重要なポイントを記録しよう](chapters/14_tags.md)~~
-15. ~~**秘密の鍵** - [SSH キーを設定して安全にアクセスしよう](chapters/15_ssh_keys.md)~~
-
----
-
-# 他のリーダーへの共有
-
-この「ぷるり　クエスト」は他のチーム開発リーダーが活用できるように公開されています。
-
-以下の方法で、自分のプロジェクトに適用してみてください。
-
-## 1. **フォークして自分のリポジトリにコピー**
-
-このリポジトリをフォークして、自分だけのバージョンを作成できます。
-
-自分のプロジェクトに合わせて自由にアレンジしましょう。
-
-## 2. **テンプレートリポジトリとして使用する**
-
-テンプレートから作成されたリポジトリは、元のリポジトリに影響を与えずに編集が可能です。「Use this template」ボタンをクリックして、プロジェクトを作成してください。
-
-![image](https://github.com/user-attachments/assets/649c367f-ee83-4279-b78d-d3d99d4c4e3a)
-
-テンプレートの詳細な使用方法については、以下のリソースも参考にしてください。
-
-- [GitHub のテンプレートリポジトリ機能について](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
+9. ~~**新たな冒険の始まり** - [リポジトリを作成しよう](chapters/08_init.md)~~
+10. ~~**運命の交差点** - [ブランチをマージして、冒険を完結させよう](chapters/09_merge.md)~~
+11. ~~**時を遡る力** - [リベースで履歴を整理しよう](chapters/10_rebase.md)~~
+12. ~~**運命の修正** - [コンフリクトを解消しよう](chapters/11_conflicts.md)~~
+13. ~~**過去の探求** - [ログを確認して履歴を辿ろう](chapters/12_log.md)~~
+14. ~~**守護の力** - [タグを使って重要なポイントを記録しよう](chapters/13_tags.md)~~
+15. ~~**秘密の鍵** - [SSH キーを設定して安全にアクセスしよう](chapters/14_ssh_keys.md)~~
 
 ---
 
-# 参考文献
+# 仲間と共に冒険を進めよう！
 
-> 不明点は以下のサイトから調べてほしいです。
+この章でわからないことがあったり、改善点を見つけた場合は、ぜひ以下の方法で教えてください。
 
-- [VSCode で Git・GitHub を使う方法を解説する【初心者向き】](https://miyashimo-studio.jp/blog/detail/vscode-github/)
-- [VSCode で始める Git(Hub)管理　使い方など](https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9#%E4%BD%BF%E3%81%84%E6%96%B9)
-- [プル → コミット → プッシュの基本的な流れ](https://zenn.dev/ojk/books/github-vscode/viewer/pull-push)
-- [編集&コミット](https://zenn.dev/ojk/books/github-vscode/viewer/vscode-git#%E7%B7%A8%E9%9B%86%EF%BC%86%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88)
-- [プッシュ（とアプリ連携）](https://zenn.dev/ojk/books/github-vscode/viewer/vscode-git#%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%88%E3%81%A8%E3%82%A2%E3%83%97%E3%83%AA%E9%80%A3%E6%90%BA%EF%BC%89)
+## 質問はこちら
+
+- **イシューを作成**: 不明点や提案をイシューとして登録し、仲間たちと共に解決を目指しましょう！
+- [GitHub の issue について/issue を作成する](https://zenn.dev/posita33/articles/github_about_issue#issue%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
+
+## 記事の修正はこちら
+
+- **プルリクエストを送信**: あなたの冒険の成果をプルリクエストとして提出し、この記事をもっとわかりやすくする手助けをしてください！
+- [【Git 入門】pull request のやり方（作業用ブランチを main ブランチにマージする）/2.1.pull request を作成する](https://zenn.dev/gachigachi/articles/dcd833c56bd0ed#2.1.pull-request%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
+
+では、次の冒険へと進みましょう！
