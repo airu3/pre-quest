@@ -7,6 +7,8 @@
 >
 > さあ、君の冒険が今始まる！
 
+![image](https://whitenote.s3-ap-northeast-1.amazonaws.com/kEvbnAjY49_thumb.jpg)
+
 ## ゴール
 君がこの冒険をクリアする頃には、以下のスキルを手にしているだろう：
 
