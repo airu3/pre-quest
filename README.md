@@ -20,6 +20,8 @@
 - **ブランチとマージの操作**: 新しいブランチで作業し、最後にその成果を統合できる。
 - **プルリクエストの作成とマージ**: 変更内容を仲間に報告し、レビューを経てプロジェクトに反映させる。
 
+では、さっそく冒険へと進みましょう！
+
 ---
 
 ## 冒険のマップ
@@ -34,7 +36,7 @@
 5. **冒険の記録** - [変更をリモートリポジトリにプッシュしよう](chapters/05_push.md)
 6. **仲間の知恵** - [リモートリポジトリから変更をプルしよう](chapters/06_pull.md)
 7. **勇者の掲示板** - [プルリクエストで仲間に報告しよう](chapters/07_pull_request.md)
-8. ~~**冒険の課題** - [イシューを管理しよう](chapters/08_manage_issues.md)~~
+8. ~~**冒険の課題** - [イシューを管理しよう](chapters/08_issues.md)~~
 
 # 開発リーダー向け
 
@@ -55,11 +57,13 @@
 ## 質問はこちら
 
 - **イシューを作成**: 不明点や提案をイシューとして登録し、仲間たちと共に解決を目指しましょう！
-- [GitHub の issue について/issue を作成する](https://zenn.dev/posita33/articles/github_about_issue#issue%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
+- [GitHub のイシューを作成する](https://github.com/airu3/git-lecture/issues)
 
 ## 記事の修正はこちら
 
-- **プルリクエストを送信**: あなたの冒険の成果をプルリクエストとして提出し、この記事をもっとわかりやすくする手助けをしてください！
-- [【Git 入門】pull request のやり方（作業用ブランチを main ブランチにマージする）/2.1.pull request を作成する](https://zenn.dev/gachigachi/articles/dcd833c56bd0ed#2.1.pull-request%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
+- **プルリクエストを送信**: あなたの冒険の成果をプルリクエストとして提出し、この記事をもっとわかりやすくする手助けをしてください！ - - - [GitHub のプルリクエストを作成する](https://github.com/airu3/git-lecture/pulls)
 
-では、次の冒険へと進みましょう！
+もし、使い方がわからない場合は、以下の記事を参考にしてみてください。
+
+- [GitHub でのイシュー作成とプルリクエストの方法](https://zenn.dev/posita33/articles/github_about_issue)
+- [【Git 入門】プルリクエストのやり方](https://zenn.dev/gachigachi/articles/dcd833c56bd0ed#2.1.pull-request%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
