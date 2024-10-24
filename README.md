@@ -30,7 +30,7 @@
 ### 共同作業者向け
 
 0. **世界観** - [コードの冒険が始まる](chapters/00_not_gdrive.md)
-1. **冒険の準備** - [Git の初期設定をしよう](chapters/01_git_setup.md)
+1. **冒険の準備** - [Git の初期設定をしよう](chapters/01_git_bash.md)
 2. **VSCode の世界へ** - [リポジトリをクローンしてみよう](chapters/02_clone.md)
 3. **分岐点の選択** - [新しいブランチを作って、自分だけの冒険を始めよう](chapters/03_branch.md)
 4. **報告の石版** - [コミットして、変更内容を伝えよう](chapters/04_commit.md)
